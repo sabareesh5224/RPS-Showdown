@@ -1,0 +1,12 @@
+{
+  "name": "yt-rock-paper-scissors-game-master",
+  "version": "1.0.0",
+  "description": "Implementation for the popular rock, paper, scissors game. It's basically a challenge from frontendmentor.io website.",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
